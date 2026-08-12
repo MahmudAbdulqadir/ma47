@@ -1,0 +1,84 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "MY LIFE OS",
+      "status": "Done",
+      "date": "2025-02-28",
+      "image": "/public/2.jpg",
+      "description": "Personal life management application.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "url": "https://mahmud-os.netlify.app/"
+    },
+    {
+      "id": 2,
+      "title": "ALARM",
+      "status": "Done",
+      "date": "2024-11-15",
+      "image": "/public/4.jpg",
+      "description": "Alarm clock application.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "url": "https://mahmud-alarm.netlify.app/"
+    },
+    {
+      "id": 3,
+      "title": "SPEECH CONVERTER",
+      "status": "Done",
+      "date": "2024-08-25",
+      "image": "/public/5.jpg",
+      "description": "Speech and text conversion tool.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "url": "https://mahmud-textconvertor.netlify.app/"
+    },
+    {
+      "id": 4,
+      "title": "CALCULATOR",
+      "status": "Done",
+      "date": "2024-05-30",
+      "image": "/public/1.jpg",
+      "description": "Basic calculator application.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "url": "https://mahmud47-calculator.netlify.app/"
+    },
+    {
+      "id": 5,
+      "title": "HANGED MAN",
+      "status": "Done",
+      "date": "2025-02-28",
+      "image": "/public/6.jpg",
+      "description": "Hangman word guessing game.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "url": "https://mahmud-hanged.netlify.app/"
+    },
+    {
+      "id": 6,
+      "title": "BUSINESS CARD",
+      "status": "Done",
+      "date": "2024-11-20",
+      "image": "/public/9.jpg",
+      "description": "Responsive digital business card.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "url": "https://card-47.netlify.app"
+    },
+    {
+      "id": 7,
+      "title": "WORD TRANSLATOR",
+      "status": "Done",
+      "date": "2025-06-23",
+      "image": "/public/8.jpg",
+      "description": "Simple word translation application.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "url": "https://mahmud-tr.netlify.app/"
+    },
+    {
+      "id": 8,
+      "title": "DIGITAL CLOCK",
+      "status": "Done",
+      "date": "2026-05-11",
+      "image": "/public/7.jpg",
+      "description": "Real-time digital clock.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "url": "https://m47-clock.netlify.app/"
+    }
+  ]
+}
